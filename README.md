@@ -43,6 +43,3 @@ The experience gained from this project connects directly to real‑world applic
 ## Ethical Considerations
 When designing intelligent systems, it is important to consider transparency, reliability, and user trust. This project emphasizes the importance of keeping humans in the loop and ensuring that AI systems support decision‑making rather than replace it.
 
-## Author
-Your Name  
-CS 370: Current and Emerging Trends in Computer Science
