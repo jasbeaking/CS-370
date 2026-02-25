@@ -1,7 +1,7 @@
 # CS-370
 Current/Emerging Trends
 
-# Pirate Intelligent Agent (CS 370)
+# Pirate Intelligent Agent
 
 ## Overview
 This repository contains my Project Two submission for CS 370: Current and Emerging Trends in Computer Science. The project demonstrates the use of reinforcement learning and neural networks to train an intelligent agent to solve a pathfinding problem in a maze environment.
